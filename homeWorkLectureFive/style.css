@@ -1,0 +1,35 @@
+body{
+    background-color: #34495e;
+    font-family: "Verdana";
+    color: white;
+}
+.mainContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+div div img{
+    margin-right: 50px;
+}
+
+.card{
+    display: flex;
+    background-color: #e74c3c;
+    width: 400px;
+}
+.participant{
+    display:flex;
+    height: 130px;
+    width: 600px;
+}
+.participantInformation div{
+    margin-bottom: 10px;
+}
+.participantName{
+    font-size: 22px;
+    margin-top: 10px;
+}
+span{
+    color: #f1c40f;
+}
