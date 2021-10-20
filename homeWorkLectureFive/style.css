@@ -9,19 +9,17 @@ body{
     margin-bottom: 50px;
 }
 
-div div img{
+.cardImage{
     margin-right: 50px;
 }
 
 .card{
-    display: flex;
     background-color: #e74c3c;
     width: 400px;
 }
 .participant{
     display:flex;
     height: 130px;
-    width: 600px;
 }
 .participantInformation div{
     margin-bottom: 10px;
@@ -30,6 +28,6 @@ div div img{
     font-size: 22px;
     margin-top: 10px;
 }
-span{
+.card span{
     color: #f1c40f;
 }
