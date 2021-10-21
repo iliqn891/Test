@@ -1,0 +1,22 @@
+iframe{
+    position: sticky;
+    top: 0px;
+}
+
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 50px;
+}
+nav{
+    margin-top: 20px;
+}
+.infoSolarSystem{
+    display: flex;
+    text-align: justify;
+}
+
+.imageSolarSystem{
+    margin: 110px;
+}

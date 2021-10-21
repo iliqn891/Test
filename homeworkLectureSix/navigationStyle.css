@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+
+.navigation{
+    display: flex;
+    background-color: #2980b9;
+}
+.navigation img{
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.mainHeader{
+    margin: 30px;
+}
+.mainHeader a{
+    margin-right: 50px;
+    color: white;
+}
