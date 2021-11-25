@@ -12,7 +12,7 @@ var students = ["Gosho",
 var oddStudents = [];
 var evenStudents = [];
 for (var i = 0; i < students.length; i++){
-    if ([i]%2 == 0){
+    if (i%2 == 0){
         evenStudents.push(students[i]);
     }else{
         oddStudents.push(students[i]);
